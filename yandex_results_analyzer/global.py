@@ -22,11 +22,11 @@ def init_browser(_browser='Chrome'):
         firefox_capabilities = DesiredCapabilities.FIREFOX.copy()
         firefox_capabilities['prefs'] = ["browser.link.open_newwindow", 3]
         firefox_capabilities['args'] = ['--headless']
-        browser = webdriver.Firefox(capabilities=firefox_capabilities, options=options)
+        browser = webdriver.Firefox(executable_path="geckodriver", capabilities=firefox_capabilities, options=options)
     else:
         options = webdriver.ChromeOptions()
         options.add_argument(f'user-agent={user_agent}')
-        browser = webdriver.Chrome(options=options)
+        browser = webdriver.Chrome(executable_path="chromedriver", options=options)
 
     return browser
 
