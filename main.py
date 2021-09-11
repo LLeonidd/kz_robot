@@ -29,9 +29,9 @@ class WebSpider:
             self.driver = driver
         self.driver.get(self.url)
 
-    def set_driver(self, browser='mozilla'):
-        if browser == 'mozilla':
-            self.driver = webdriver.Firefox()
+    def set_driver(self, browser='chrome'):
+        if browser == 'chrome':
+            self.driver = webdriver.Chrome(executable_path='chromedriver')
 
     def set_main_menu(self, selector):
         self.main_menu = []
