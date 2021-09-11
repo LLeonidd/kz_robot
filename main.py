@@ -40,7 +40,7 @@ class WebSpider:
         return self.main_menu
 
     def close(self):
-        self.driver.close()
+        self.driver.quite()
 
 
 WS = WebSpider()
