@@ -1,5 +1,5 @@
 yandex_results_analyzer/geckodriver.log
 geckodriver.exe
 chromedriver.exe
-__pycache__
+__pycache__/*
 
