@@ -39,7 +39,7 @@ class WebSpider:
             self.main_menu.append(item)
         return self.main_menu
 
-    def close(self):
+    def quite(self):
         self.driver.quite()
 
 
