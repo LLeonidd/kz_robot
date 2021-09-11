@@ -45,10 +45,13 @@ class WebSpider:
 
 WS = WebSpider()
 menu_links = WS.set_main_menu('#site-navigation ul li a')
-for item in menu_links:
-    print(WS.driver, item, item.text)
-    #scroll_shim(WS.driver, item)
-    #print(item.text)
-    ActionChains(WS.driver).move_to_element(item).click().perform()
-    sleep(10)
-WS.close()
+try:
+    for item in menu_links:
+        print(WS.driver, item, item.text)
+        #scroll_shim(WS.driver, item)
+        #print(item.text)
+        ActionChains(WS.driver).move_to_element(item).click().perform()
+        sleep(10)
+    WS.quite()
+except:
+    WS.quite()
