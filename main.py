@@ -3,6 +3,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 from time import sleep
 from random import randint
 
+
 def scroll_shim(passed_in_driver, object):
     x = object.location['x']
     y = object.location['y']
@@ -39,8 +40,8 @@ class WebSpider:
             self.main_menu.append(item)
         return self.main_menu
 
-    def quite(self):
-        self.driver.quite()
+    def quit(self):
+        self.driver.quit()
 
 
 WS = WebSpider()
@@ -52,6 +53,6 @@ try:
         #print(item.text)
         ActionChains(WS.driver).move_to_element(item).click().perform()
         sleep(10)
-    WS.quite()
+    WS.quit()
 except:
-    WS.quite()
+    WS.quit()
