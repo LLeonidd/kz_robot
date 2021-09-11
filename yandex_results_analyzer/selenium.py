@@ -114,6 +114,12 @@ def get_search_results(key_request, ads=False):
     return {'search_results': search_results, 'driver': driver}
 
 
+def get_yandex_link(results, root_url):
+    result = results['ads']
+    result = results['results']
+    return [{'link': link['link'], 'item': link['item_link']} for link in result if link['root_url'] == root_url][0]
+
+
 if __name__ == '__main__':
     print(
         get_search_results(key_request='Рулонные жалюзи в Краснодаре', ads=True)
