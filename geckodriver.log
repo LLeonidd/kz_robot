@@ -1,0 +1,397 @@
+1631094264814	geckodriver	INFO	Listening on 127.0.0.1:52101
+1631094264823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVjOLN1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631094267741	Marionette	INFO	Listening on port 46707
+1631094267879	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631094267902	Marionette	ERROR	[15] No reply from Marionette:Register
+1631094275377	Marionette	INFO	Stopped listening on port 46707
+1631094866078	geckodriver	INFO	Listening on 127.0.0.1:58069
+1631094866087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL7UaS7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631094868777	Marionette	INFO	Listening on port 39491
+1631094868839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631094868863	Marionette	ERROR	[15] No reply from Marionette:Register
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1631094971578	Marionette	INFO	Stopped listening on port 39491
+1631095011315	geckodriver	INFO	Listening on 127.0.0.1:51429
+1631095011323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0cT1P0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631095014241	Marionette	INFO	Listening on port 46657
+1631095014365	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631095014392	Marionette	ERROR	[15] No reply from Marionette:Register
+1631095026213	Marionette	INFO	Stopped listening on port 46657
+1631095027890	geckodriver	INFO	Listening on 127.0.0.1:42761
+1631095027898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1pX0gv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631095030672	Marionette	INFO	Listening on port 39975
+1631095030750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631095030789	Marionette	ERROR	[15] No reply from Marionette:Register
+1631095033436	Marionette	INFO	Stopped listening on port 39975
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1631095157932	geckodriver	INFO	Listening on 127.0.0.1:38317
+1631095157941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGWHXcB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631095160726	Marionette	INFO	Listening on port 33483
+1631095160798	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631095160824	Marionette	ERROR	[15] No reply from Marionette:Register
+1631095163144	Marionette	INFO	Stopped listening on port 33483
+1631095231688	geckodriver	INFO	Listening on 127.0.0.1:58129
+1631095231697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3Poy2P"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631095234526	Marionette	INFO	Listening on port 43033
+1631095234649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631095234676	Marionette	ERROR	[15] No reply from Marionette:Register
+1631095284591	geckodriver	INFO	Listening on 127.0.0.1:47645
+1631095284600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehxhn1q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631095287408	Marionette	INFO	Listening on port 36405
+1631095287557	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631095287580	Marionette	ERROR	[15] No reply from Marionette:Register
+1631095291727	Marionette	INFO	Stopped listening on port 36405
+1631095344248	geckodriver	INFO	Listening on 127.0.0.1:53425
+1631095344257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerLdIVl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631095346962	Marionette	INFO	Listening on port 33745
+1631095346997	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631095347020	Marionette	ERROR	[15] No reply from Marionette:Register
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1631095374861	Marionette	INFO	Stopped listening on port 43033
+1631095376168	Marionette	INFO	Stopped listening on port 33745
+1631095377876	geckodriver	INFO	Listening on 127.0.0.1:35869
+1631095377886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTYLrH2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631095380643	Marionette	INFO	Listening on port 43691
+1631095380727	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631095380755	Marionette	ERROR	[15] No reply from Marionette:Register
+1631095388768	Marionette	INFO	Stopped listening on port 43691
+1631095422369	geckodriver	INFO	Listening on 127.0.0.1:57117
+1631095422378	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerKllzP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631095425225	Marionette	INFO	Listening on port 46163
+1631095425350	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631095425377	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1631095430870	Marionette	INFO	Stopped listening on port 46163
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilerKllzP/protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631095598518	geckodriver	INFO	Listening on 127.0.0.1:32855
+1631095598527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB5FLdq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631095601401	Marionette	INFO	Listening on port 32897
+1631095601477	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631095601511	Marionette	ERROR	[15] No reply from Marionette:Register
+1631095606687	Marionette	INFO	Stopped listening on port 32897
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631110568371	geckodriver	INFO	Listening on 127.0.0.1:55293
+1631110568380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyie28r"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631110571552	Marionette	INFO	Listening on port 42145
+1631110571616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631110571643	Marionette	ERROR	[15] No reply from Marionette:Register
+1631110575840	Marionette	INFO	Stopped listening on port 42145
+1631110730401	geckodriver	INFO	Listening on 127.0.0.1:51021
+1631110730410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletUsaVE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631110733424	Marionette	INFO	Listening on port 34801
+1631110733569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631110733591	Marionette	ERROR	[15] No reply from Marionette:Register
+1631110768984	Marionette	INFO	Stopped listening on port 34801
+1631110772281	geckodriver	INFO	Listening on 127.0.0.1:45181
+1631110772290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaylzwy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631110775419	Marionette	INFO	Listening on port 35909
+1631110775539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631110775564	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631110787230275797, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631110787230275797, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+1631110833991	geckodriver	INFO	Listening on 127.0.0.1:52375
+1631110834000	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebt7WjA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1631110839827	Marionette	INFO	Stopped listening on port 35909
+1631110842488	geckodriver	INFO	Listening on 127.0.0.1:56389
+1631110842497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE0jci0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631110845500	Marionette	INFO	Listening on port 45613
+1631110845545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631110845576	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: http://kubanzhalyuzi.ru/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/jquery.fancybox-1.3.4.pack.js?ver=3.1.6, line 18: TypeError: b.browser is undefined
+JavaScript error: http://kubanzhalyuzi.ru/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/nextgen_fancybox_init.min.js?ver=3.1.6, line 1: TypeError: nextgen_lightbox_filter_selector(...).fancybox is not a function
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631110853494549573, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631110853494549573, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+1631110944253	geckodriver	INFO	Listening on 127.0.0.1:44547
+1631110944263	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBp3dKH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631110947470	Marionette	INFO	Listening on port 34913
+1631110947538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631110947565	Marionette	ERROR	[15] No reply from Marionette:Register
+1631110948236	Marionette	INFO	Stopped listening on port 45613
+1631111038012	geckodriver	INFO	Listening on 127.0.0.1:33233
+1631111038021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9zK4B2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631111040937	Marionette	INFO	Listening on port 33289
+1631111041058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631111041081	Marionette	ERROR	[15] No reply from Marionette:Register
+1631111066750	Marionette	INFO	Stopped listening on port 34913
+1631111068401	Marionette	INFO	Stopped listening on port 33289
+1631111110528	geckodriver	INFO	Listening on 127.0.0.1:36677
+1631111111541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerl5Dv7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631111117885	Marionette	INFO	Listening on port 39699
+1631111117986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631111118042	Marionette	ERROR	[15] No reply from Marionette:Register
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1631111135720	Marionette	INFO	Stopped listening on port 39699
+1631111137417	geckodriver	INFO	Listening on 127.0.0.1:45515
+1631111137426	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaB2UDw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631111140812	Marionette	INFO	Listening on port 43307
+1631111140867	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631111140890	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631111145539549238, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631111145539549238, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+1631111212187	Marionette	INFO	Stopped listening on port 43307
+1631111451334	geckodriver	INFO	Listening on 127.0.0.1:35095
+1631111451343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehDnEJo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631111454381	Marionette	INFO	Listening on port 39893
+1631111454479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631111454501	Marionette	ERROR	[15] No reply from Marionette:Register
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1631111533243	Marionette	INFO	Stopped listening on port 39893
+1631111535086	geckodriver	INFO	Listening on 127.0.0.1:48725
+1631111535095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaeJsxe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631111538094	Marionette	INFO	Listening on port 42247
+1631111538155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631111538184	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631111542833473844, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631111542833473844, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1631111571034	Marionette	INFO	Stopped listening on port 42247
+1631111609162	geckodriver	INFO	Listening on 127.0.0.1:46223
+1631111609171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3KDt3u"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631111612263	Marionette	INFO	Listening on port 40281
+1631111612326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631111612360	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631111616593565105, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631111616593565105, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+1631111639048	Marionette	INFO	Stopped listening on port 40281
+1631111642170	geckodriver	INFO	Listening on 127.0.0.1:37111
+1631111642179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevUnZff"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631111645253	Marionette	INFO	Listening on port 40363
+1631111645323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631111645362	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631111650309115102, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631111650309115102, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+1631111671340	Marionette	INFO	Stopped listening on port 40363
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631111674703	geckodriver	INFO	Listening on 127.0.0.1:42513
+1631111674713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLa5t8m"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631111677872	Marionette	INFO	Listening on port 40459
+1631111677980	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631111678019	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631111682889192590, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631111682889192590, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+1631111721262	Marionette	INFO	Stopped listening on port 40459
+1631111724105	geckodriver	INFO	Listening on 127.0.0.1:33319
+1631111724114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6WgOmR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631111727094	Marionette	INFO	Listening on port 43975
+1631111727170	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631111727204	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631111731098515608, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631111731098515608, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+1631111779167	Marionette	INFO	Stopped listening on port 43975
+1631348138773	geckodriver	INFO	Listening on 127.0.0.1:60039
+1631348139785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKFbD1D"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631348143244	Marionette	INFO	Listening on port 44941
+1631348143325	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631348143351	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631348160023208908, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631348160023208908, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+1631348168890	Marionette	INFO	Stopped listening on port 44941
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631348611620	geckodriver	INFO	Listening on 127.0.0.1:59901
+1631348611629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOjZs8e"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631348616301	Marionette	INFO	Listening on port 46517
+1631348616398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631348616448	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://api-maps.yandex.ru/2.1.78/?lang=ru_RU&load=ObjectManager,GeoObjectCollection,geoObject.addon.hint,geolocation,geoObject.addon.balloon,Map,Layer,layer.storage,Placemark,Polyline,projection.wgs84Mercator,templateLayoutFactory,util.bounds,shape.Rectangle,geometry.pixel.Rectangle,MapType,mapType.storage,option.presetStorage&onload=ymapsloaded&onerror=ymapserror&ns=ymaps&coordorder=longlat, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+JavaScript warning: https://api-maps.yandex.ru/2.1.78/?lang=ru_RU&load=ObjectManager,GeoObjectCollection,geoObject.addon.hint,geolocation,geoObject.addon.balloon,Map,Layer,layer.storage,Placemark,Polyline,projection.wgs84Mercator,templateLayoutFactory,util.bounds,shape.Rectangle,geometry.pixel.Rectangle,MapType,mapType.storage,option.presetStorage&onload=ymapsloaded&onerror=ymapserror&ns=ymaps&coordorder=longlat, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+1631348629154	Marionette	ERROR	[37] No reply from Marionette:Register
+JavaScript error: http://kubanzhalyuzi.ru/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/jquery.fancybox-1.3.4.pack.js?ver=3.1.6, line 18: TypeError: b.browser is undefined
+JavaScript error: http://kubanzhalyuzi.ru/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/nextgen_fancybox_init.min.js?ver=3.1.6, line 1: TypeError: nextgen_lightbox_filter_selector(...).fancybox is not a function
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631348631609394847, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631348631609394847, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+JavaScript error: http://kubanzhalyuzi.ru/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/jquery.fancybox-1.3.4.pack.js?ver=3.1.6, line 18: TypeError: b.browser is undefined
+JavaScript error: http://kubanzhalyuzi.ru/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/nextgen_fancybox_init.min.js?ver=3.1.6, line 1: TypeError: nextgen_lightbox_filter_selector(...).fancybox is not a function
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631348700997355095, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+JavaScript warning: https://api-maps.yandex.ru/2.1/?lang=ru_RU&coordorder=longlat&load=Map,GeoObject,geoObject.addon.balloon,map.associate.serviceGeoObjects,geoObject.addon.hint,templateLayoutFactory,domEvent.manager,control.Button,control.FullscreenControl,control.GeolocationControl,control.RouteButton,control.RulerControl,control.SearchControl,control.TrafficControl,control.TypeSelector,control.ZoomControl,system.browser,meta,mapType.storage,option.presetStorage,geolocation,util.dom.styleSheet&wizard=constructor&ns=ymaps_ctor__ru_RU____&counter_prefix=constructor&onload=fid1631348700997355095, line 1: Failed to create WebGL context: failIfMajorPerformanceCaveat: Compositor is not hardware-accelerated. (about:config override available: webgl.disable-fail-if-major-performance-caveat)
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1631348727315	Marionette	INFO	Stopped listening on port 46517
