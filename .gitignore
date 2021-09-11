@@ -3,3 +3,5 @@ geckodriver.exe
 chromedriver.exe
 __pycache__/*
 *.pyc
+yandex_results_analyzer/__pycache__/__init__.cpython-38.pyc
+yandex_results_analyzer/__pycache__/selenium.cpython-38.pyc
