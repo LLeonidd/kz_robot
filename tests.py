@@ -7,5 +7,5 @@ if __name__ == '__main__':
     driver = browser['driver']
     search_results = browser['search_results']
     print("Search results:\n\r", search_results)
-    time.sleep(3)
-    driver.close()
+    time.sleep(1)
+    driver.quit()

@@ -38,6 +38,7 @@ if __name__ == '__main__':
     driver.switch_to.window(windows[1])
 
 
+
     """
     from selenium import webdriver
     driver = webdriver.Firefox()
