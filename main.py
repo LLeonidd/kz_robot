@@ -4,21 +4,10 @@ from time import sleep
 import random
 from random import randint
 from yandex_results_analyzer import selenium as Y
+from kz_handlers import tools as KZ
+
 target_prefix = 'kubanzhalyuzi.ru'
 target_url = f'http://{target_prefix}'
-
-
-def scroll_shim(passed_in_driver, object):
-    x = object.location['x']
-    y = object.location['y']
-    scroll_by_coord = 'window.scrollTo(%s,%s);' % (
-        x,
-        y
-    )
-    scroll_nav_out_of_way = 'window.scrollBy(0, -120);'
-    passed_in_driver.execute_script(scroll_by_coord)
-    passed_in_driver.execute_script(scroll_nav_out_of_way)
-
 
 class WebSpider:
     """
@@ -71,23 +60,26 @@ def main_test():
 
 
 if __name__ == '__main__':
-    """
+
     
     #Search site in Yandex
     yandex_results = Y.get_search_results('Вертикальные жалюзи Краснодар')
     driver = yandex_results['driver']
     search_results = yandex_results['search_results']
     #Select site in Yandex search
-    item_result = Y.get_yandex_link(search_results, target_prefix)['item']
+    try:
+        item_result = Y.get_yandex_link(search_results, target_prefix)['item']
+    except IndexError:
+        print(f'No site {target_prefix} but in search results')
     # Move and click on site link in Yandex
     ActionChains(driver).move_to_element(item_result).click().perform()
     # switch on tab
     windows = driver.window_handles  # 0 - страница от куда перешли ( яндекс ), 1 - страница куда перешли
     driver.switch_to.window(windows[1])
     WS = WebSpider(driver=driver)
-    """
+
     #Work spider in site
-    WS = WebSpider()
+    #WS = WebSpider()
 
     main_menu_items = WS.set_main_menu('.main-nav-list li a')['items']
     main_menu_links = WS.set_main_menu('.main-nav-list li a')['links']
@@ -102,12 +94,7 @@ if __name__ == '__main__':
         ActionChains(WS.driver).move_to_element(current_menu_item).click().perform()
 
         #Прокрутка страницы вниз
-        step=10
-        for timer in range(0,50):
-            #WS.driver.execute_script(f"window.scrollTo(0, document.body.scrollHeight);")
-            WS.driver.execute_script(f"window.scrollTo(0, {step});")
-            step+=step*random.choice(range(8, 15))/10
-            sleep(random.choice(range(1, 5))/10)
+        KZ.scroll_down(WS.driver)
 
         sleep(random.choice(range(1, 6)))
 
